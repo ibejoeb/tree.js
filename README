@@ -1,0 +1,6 @@
+Tree.js
+
+This is a simple tree data structure that I occasionally use for representing
+hierachical data.  It provides Node and Tree classes.  A Tree holds a root Node
+and provides helpers for performing pre-order traversal.
+
